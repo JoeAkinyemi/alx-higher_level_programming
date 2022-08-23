@@ -1,4 +1,4 @@
-Firdt task in sprint 2
+First task in sprint 2
 
 question 0
 Write a Shell script that runs a Python script.
